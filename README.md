@@ -1,5 +1,5 @@
 # petcare
-Shovel PETCare is a work in progres Commander X16 UserPort "Netcard".
+Shovel PETCare is a work in progress Commander X16 UserPort "Netcard".
 
 Currently there's a prototype schematic for a X16 UserPort <=> BeagleBoneBlue interface.
 
